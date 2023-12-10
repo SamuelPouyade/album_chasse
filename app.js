@@ -1,4 +1,3 @@
-// app.js
 const express = require('express');
 const { cloudinary } = require('./config');
 const db = require('./database');
